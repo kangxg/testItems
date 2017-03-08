@@ -13,17 +13,29 @@
 					<key>url</key>
 					<string>http://www.kangxg.cn/testItems/ettAiXuePaiNextGen.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://www.kangxg.cn/image/Icon-76@2x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://www.kangxg.cn/image/Icon-83.5@2x.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.etiantian.ettaixuepai</string>
 				<key>bundle-version</key>
-				<string>1.0.2000.2</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>爱学派</string>
+				<string>ettAiXuePaiNextGen</string>
 			</dict>
 		</dict>
 	</array>
